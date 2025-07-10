@@ -13,7 +13,7 @@ This is a fully functional ToDo List web app built using **HTML**, **CSS**, and 
 - JavaScript (Vanilla)
 
 ## 📸 Preview
-![Preview](assets/list_image.png)
+![Preview](https://github.com/Subhrajitgithub18/OCTANET_TASK2/blob/main/Screenshot%202025-07-10%20175533.png)
 
 ## 📂 How to Use
 1. Clone the repository
